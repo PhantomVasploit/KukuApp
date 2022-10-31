@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".learnFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/kukuApp_learn"
+        android:textSize="30dp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/chickenBreed"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:backgroundTint="@color/black"
+        android:text="Chicken Breed"
+        android:textColor="@color/white"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="50dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="50dp"/>
+
+    <Button
+        android:id="@+id/chickenFeed"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:backgroundTint="@color/black"
+        android:text="Chicken Feeds"
+        android:textColor="@color/white"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="50dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginTop="50dp"/>
+
+    <Button
+        android:id="@+id/chickenHealth"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:backgroundTint="@color/black"
+        android:text="Chicken Health"
+        android:textColor="@color/white"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="50dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="120dp"/>
+
+    <Button
+        android:id="@+id/chickenHousing"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:backgroundTint="@color/black"
+        android:text="Chicken Housing"
+        android:textColor="@color/white"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="50dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginTop="120dp"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KukuApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kukuApp_learn">KukuApp Learn</string>
+    <string name="kukuApp_trade">KukuApp Trade</string>
+    <string name="kukuapp_sale">KukuApp Sale</string>
+    <string name="kukuapp_buy">KukuApp Buy</string>
+    <string name="kukuapp_chicken_breed">KukuApp Chicken Breed</string>
+    <string name="kukuapp_chicken_health">KukuApp Chicken Health</string>
+    <string name="kukuapp_chicken_feeds">KukuApp Chicken Feeds</string>
+    <string name="kukuapp_chicken_housing">KukuApp Chicken Housing</string>
+</resources>
